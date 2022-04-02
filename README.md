@@ -6,7 +6,7 @@ Submitted by: **Shanbin Shanan**
 
 Time spent: **10** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://enshrined-wirehaired-andesaurus.glitch.me/)
 
 ## Required Functionality
 
@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Shanbin Shanan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

@@ -4,7 +4,7 @@
 
 Submitted by: **Shanbin Shanan**
 
-Time spent: **#** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -42,19 +42,22 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](https://user-images.githubusercontent.com/78567987/161368424-c2fd6aa4-5cf8-4bf6-9912-a52ecc09aeac.gif)
 
 ## Reflection Questions
+
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
+- No outside resources were utilized. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+- A challenge that was encountered during the creation of the submission was the use of buttons in the HTML. I had trouble making the “START,” button function, as the game was not starting up. This issue was holding up the entire game and held back any further progress that was to be made. In order to debug this issue, proper sighting of the error had to be taken into action. Thus, overcoming the issue included going back to the terminal and ensuring that no syntax errors were made. After review, I was unable to find any mistakes leading to the failure of the “START,” button initiating the game. After further review, I noticed that my “startGame()” function was switched and ultimately undefined in my code. This simple mistake held me back from completing the game and showed me that the review process is crucial during development. As good as we are at front-end and back-end development, mistakes are bound to occur. This project allowed me to also engage in debugging, as my game was not functioning properly. This entire process was definitely a great experience and I enjoyed being able to successfully develop my project. Overcoming a challenge is not easy, so patience is also a major skill to have!
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+- After completion of this project several questions had arose in my head. One question that I had was, during web development, what UI principles are factored into the development? Many programmers and developers seem to have a set of principles that are followed throughout a project. Another question I had was, what are the best debugging procedures? Debugging was utilized during the development of my project, and I sure need any advice I can get for it! In correlation with debugging procedures, what organization methods are recommended for any code to avoid errors? This could include any development tools that can be used or simply just techniques. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
-
+-	If a few more hours were given, I would love to incorporate a timer feature into the game. This timer would make the game more intense and enhance the overall difficultly. Users would be able to compete to be at the top of the leaderboard. Games completed under a certain time frame would receive recognition using this leaderboard. This feature would also put users in a competitive environment, giving them a reason to try hard. As of right now, this game is more of a single player and seems to be played to pass time. Ultimately, adding a timer feature and a leaderboard will attract more competitive users. 
 
 ## Interview Recording URL Link
 
